@@ -1,7 +1,5 @@
-# django-multidb
-Django multiple database example
-# django-multidb
-Django multiple database example
+# Django multiple database example
+
 # Installation
 Install using pip...
 
